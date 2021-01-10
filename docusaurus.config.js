@@ -207,7 +207,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} <a href="cbsjz.github.io" style="text-decoration: none;color: #fff">cbsjz</a>, Inc. <br/> 
+      copyright: `Copyright © ${new Date().getFullYear()} <a href="http://cbsjz.github.io" style="text-decoration: none;color: #fff">cbsjz</a>, Inc. <br/> 
         by <a href="https://zxuqian.cn/" style="text-decoration: none;color: #fff">峰华 (张旭乾)</a> Built with Docusaurus.`
     },
     prism: {
@@ -239,7 +239,7 @@ module.exports = {
           feedOptions: {
             type: "all",
             title: "cbsjz",
-            copyright: `Copyright © ${new Date().getFullYear()} <a href="cbsjz.github.io" style="text-decoration: none;color: #fff">cbsjz</a>, Inc. <br/> 
+            copyright: `Copyright © ${new Date().getFullYear()} <a href="https://cbsjz.github.io" style="text-decoration: none;color: #fff">cbsjz</a>, Inc. <br/> 
               by <a href="https://zxuqian.cn/" style="text-decoration: none;color: #fff">峰华 (张旭乾)</a> Built with Docusaurus.`
           },
         },
