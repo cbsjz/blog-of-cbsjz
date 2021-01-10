@@ -31,7 +31,7 @@ module.exports = {
           ],
         },
         {
-          to: "https://www.iqiyi.com/u/2071982791",
+          to: "/",
           label: "视频",
           position: "right",
           items: [
@@ -66,7 +66,7 @@ module.exports = {
           ],
         },
         {
-          to: "https://space.bilibili.com/39060970",
+          to: "/",
           label: "直播",
           position: "right",
           items: [
@@ -93,7 +93,7 @@ module.exports = {
           ],
         },
         {
-          to: "https://space.bilibili.com/400613608",
+          to: "/",
           label: "录制组",
           position: "right",
           items: [
