@@ -2,7 +2,7 @@
 slug: first-blog
 title: 第一篇博客
 author: cbsjz
-author_title: 前端工程师 / B站UP主
+author_title: /
 author_url: https://github.com/cbsjz
 author_image_url: img/logo.png
 tags: [log]
